@@ -2,8 +2,8 @@
 <package >
   <metadata>
     <id>Bootstrap.DateTimePicker</id>
-    <title>bootstrap-switch</title>
-    <version>0.0.20130426</version>
+    <title>bootstrap-datetimepicker</title>
+    <version>0.0.20130428</version>
     <authors>tarruda, Stefan Petre, Andrew Rowls, jdewit</authors>
     <owners>Brian Lachniet</owners>
     <licenseUrl>https://github.com/tarruda/bootstrap-datetimepicker/blob/master/LICENSE</licenseUrl>
@@ -14,7 +14,7 @@
     <copyright>Copyright 2013</copyright>
     <tags>bootstrap date time picker</tags>
     <dependencies>
-    <dependency id="Twitter.Bootstrap" />
-  </dependencies>
+        <dependency id="Twitter.Bootstrap" />
+    </dependencies>
   </metadata>
 </package>
