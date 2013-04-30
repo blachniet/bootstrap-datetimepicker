@@ -1,6 +1,6 @@
 To build a NuGet package:
 
-1. Update the version number in `Bootstrap.DateTimePicker.nuspec` 
+1. Update the version number and release notes `Bootstrap.DateTimePicker.nuspec` 
 2. On a Windows machine, run `build.cmd`
 3. Push the generated package to http://nuget.org
 
